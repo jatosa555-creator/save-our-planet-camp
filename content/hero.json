@@ -1,0 +1,8 @@
+[
+  { "id": "hero-01", "src": "/content/fair/fair-07.png", "title": "เมื่อพลาสติกขึ้นเวที", "subtitle": "Parody ทำให้ปัญหาที่คุ้นเคยมองเห็นได้ทันที", "sourceCategory": "fair", "sourceImageId": "fair-07" },
+  { "id": "hero-02", "src": "/content/famous/famous-01.png", "title": "ภาพคุ้นตา มุมมองใหม่", "subtitle": "Replace เรื่องเดิมด้วยคำถามเรื่องน้ำและการใช้ซ้ำ", "sourceCategory": "famous", "sourceImageId": "famous-01" },
+  { "id": "hero-03", "src": "/content/famous/famous-05.png", "title": "ทะเลที่เราสร้างขึ้น", "subtitle": "Contrast ทำให้ของใช้ครั้งเดียวกลายเป็นคลื่นลูกใหญ่", "sourceCategory": "famous", "sourceImageId": "famous-05" },
+  { "id": "hero-04", "src": "/content/famous/famous-06.png", "title": "อนุสาวรีย์ของการเลือก", "subtitle": "เปลี่ยนสัญลักษณ์เดิมให้พูดเรื่องการใช้ซ้ำ", "sourceCategory": "famous", "sourceImageId": "famous-06" },
+  { "id": "hero-05", "src": "/content/perspectives/perspective-03.png", "title": "ภาพที่โลกจะจำเรา", "subtitle": "Future Fossil ชวนมองร่องรอยของวันนี้จากสายตาของวันข้างหน้า", "sourceCategory": "perspectives", "sourceImageId": "perspective-03" },
+  { "id": "hero-06", "src": "/content/fair/fair-08.png", "title": "วงจรที่เกือบปิด", "subtitle": "Error ทำให้เราเห็นว่าความตั้งใจดีต้องทำให้จบจริง", "sourceCategory": "fair", "sourceImageId": "fair-08" }
+]

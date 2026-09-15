@@ -1,0 +1,6 @@
+[
+  { "id": "waste", "title": "Waste & Materials", "thai": "ขยะและวัสดุ", "description": "สิ่งที่เราใช้ ทิ้ง และทำให้กลับมาใช้ใหม่ได้" },
+  { "id": "water", "title": "Water", "thai": "น้ำ", "description": "น้ำที่เราใช้ น้ำที่เรามองเห็น และน้ำที่เราอาจมองข้าม" },
+  { "id": "energy", "title": "Energy & Heat", "thai": "พลังงานและความร้อน", "description": "พลังงานในห้องเรียน บ้าน และพื้นที่รอบตัว" },
+  { "id": "green", "title": "Green Space & Living Things", "thai": "พื้นที่สีเขียวและสิ่งมีชีวิต", "description": "พื้นที่เล็ก ๆ ที่ทำให้ต้นไม้และชีวิตอื่นอยู่ร่วมกับเรา" }
+]

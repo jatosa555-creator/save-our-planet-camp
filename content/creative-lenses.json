@@ -1,0 +1,20 @@
+[
+  { "group": "01", "title": "Reframe Reality", "thai": "บิดมุมมองของความจริง", "hint": "เรื่องเดิม สถานที่เดิม แต่ลองมองอีกมุม", "color": "orange", "lenses": [
+    { "name": "Parody", "thai": "ล้อเลียน", "example": "Plastic Volcano" },
+    { "name": "Contrast", "thai": "สร้างความขัดแย้ง", "example": "Plastic Fruit Tree" },
+    { "name": "Exaggerate", "thai": "ขยายให้เกินจริง", "example": "One Cap, Big Waste" },
+    { "name": "Reverse", "thai": "กลับมุมความสัมพันธ์", "example": "Nature Exhibits Humans" }
+  ] },
+  { "group": "02", "title": "Transform the Familiar", "thai": "เปลี่ยนสิ่งคุ้นเคยให้มีความหมายใหม่", "hint": "สิ่งใกล้ตัว เล่าเรื่องใหม่ได้", "color": "blue", "lenses": [
+    { "name": "Replace", "thai": "แทนที่", "example": "Leaves to Caps" },
+    { "name": "Personify", "thai": "ทำให้สิ่งของมีบุคลิก", "example": "Drain Monster" },
+    { "name": "Reveal", "thai": "เปิดเผยสิ่งที่มองไม่เห็น", "example": "School to Sea" },
+    { "name": "Future Fossil", "thai": "มองปัจจุบันจากอนาคต", "example": "Bottle Cap Fossil 2050" }
+  ] },
+  { "group": "03", "title": "Digital Metaphors", "thai": "ใช้ภาษาดิจิทัลเล่าเรื่องสิ่งแวดล้อม", "hint": "ใช้ error, loading หรือ glitch ช่วยสะท้อนปัญหา", "color": "green", "lenses": [
+    { "name": "Error", "thai": "ระบบผิดพลาด", "example": "404 Nature Not Found" },
+    { "name": "Limit", "thai": "ข้อจำกัด", "example": "Planet Battery 1%" },
+    { "name": "Loading", "thai": "ยังสร้างไม่เสร็จ", "example": "Future School Loading 33%" },
+    { "name": "Glitch", "thai": "ระบบรวน/ผิดปกติ", "example": "Nature Network Lagging" }
+  ] }
+]
