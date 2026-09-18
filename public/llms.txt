@@ -1,0 +1,34 @@
+# Save Our Planet Camp
+
+## What this site is
+
+Save Our Planet Camp (Cap to Change) is a bilingual Thai-English environmental exhibition and creative learning web app for students. It helps visitors look at familiar places and everyday materials through Creative Lenses, then create a new visual interpretation with AI.
+
+## Core topics
+
+- Waste and materials: single-use plastic, reuse, recycling, and the afterlife of objects
+- Water: refill stations, water use, and overlooked water stories
+- Energy and heat: classroom energy, switches, fans, and everyday consumption
+- Green space and living things: trees, habitats, biodiversity, and shared school spaces
+
+## Interactive features
+
+- Four exhibition collections: Fairground, Iconic Images, Student Works, and Perspectives
+- Creative Lenses including Parody, Contrast, Exaggerate, Reverse, Replace, Personify, Reveal, Future Fossil, Error, Limit, Loading, and Glitch
+- AI Chat Mode for developing an idea
+- Template Mode for turning a real place, tension, object, and audience into a visual prompt
+- Image generation and Remix with optional image references
+- Thai/English language switch at `/` and `/en`
+
+## AI and technology context
+
+The app can connect to OpenRouter using deployment-configured models. The current project configuration supports GPT-family text models, including an Astra 2.5-class configuration, and AI image generation models. “AGI” is treated as a search topic and future-facing discussion term here, not as a claim that this app is AGI.
+
+## Useful search phrases
+
+นิทรรศการสิ่งแวดล้อม, environmental exhibition, AI รูปภาพ, AI image generation, student environmental education, Creative Lenses, GPT, Astra 2.5, AGI, OpenRouter, Save Our Planet Camp, Cap to Change
+
+## Canonical pages
+
+- Thai: `/`
+- English: `/en`
